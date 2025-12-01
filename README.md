@@ -18,13 +18,30 @@ Welcome to the Jobindex.dk Scraper! This actor extracts job listings and details
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.1` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
 
 ---
 
 
 
 The Jobindex.dk scraper crawls Danish job listings. Supply listing URLs from Jobindex search pages and it will paginate through results, capturing structured job data and basic company metrics.
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `jobindex-dk-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
+
+---
+
 
 ## Use Cases
 
